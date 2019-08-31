@@ -1,11 +1,3 @@
-/** 
- * Program: FadeEventInOut.js
- * Description: This script will add a 1 second fade both ends of the current event
- * Author: Johnny (Roy) Rofrano john_rofrano@hotmail.com
- * 
- * Revision Date: June 7, 2003 
- **/ 
-
 import Sony.Vegas; 
 import System.Windows.Forms;
 import Microsoft.Win32;
