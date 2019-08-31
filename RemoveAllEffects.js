@@ -1,13 +1,3 @@
-/**
- * This script will remove all effects from selected events
- *
- * To use, simply select the events on which effects are to be eliminated.
- *
- * Written By: Edward Troxel
- * www.jetdv.com/tts
- * Modified: 07-23-2003
- **/
-
 import System;
 import System.Collections;
 import System.Text;
