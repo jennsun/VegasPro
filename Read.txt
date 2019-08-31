@@ -1,0 +1,43 @@
+Thanks for downloading my Sony Vegas Scripts Pack!
+1 download = 1 like?
+
+Thanks a lot for all the support :D
+	- ProtoAMP
+
+--------- Disclaimer ---------
+
+The scripts weren't created by me, yet I did sort them out and have cherry picked the ones I use on a regular basis. For more information on authors, open the javascript file in notepad.
+All rights reserved to their respective owners.
+This video is not meant to infringe any of the copyrights.
+This is for people's enjoyment and convenience only.
+
+You can check out my Channel Here: https://www.youtube.com/user/ProtoAMP
+
+-------------------------------------------------------------------------
+
+Install these in: C:\Program Files\Sony\Vegas Pro 13.0 (or similar)\Script Menu
+
+Aspect ratio.js
+- Enlarges selected clip until the aspect ratio is matched. If no clip is selected, then will adjust all clips.
+
+ChangeAlphaChannel.js
+-Changes alpha channel to premultiplied for transparency. Can be altered to another alpha channel.
+
+DeleteEmptySpaceBetweenEvents.js
+- Will ripple delete empty spaces between clips on selected tracks.
+
+Disable Resample Global.cs
+- Will disable resample on all tracks.
+
+FadeEventInOut.js
+-Fades selected clip in and out for a duration of 1 second.
+
+MultiFXAssigner_10.js
+- Add effects and presets to all clips or individual ones.
+
+Normalizeall.js
+- Normalise all tracks.
+
+RemoveAllEffects.js
+- Removes effects from selected media/clips.
+
