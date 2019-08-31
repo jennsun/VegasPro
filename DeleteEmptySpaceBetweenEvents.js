@@ -1,11 +1,3 @@
-/** 
-* Program: 
-* Description: This script will Delete Empty Space Between Events In Selected Tracks
-* Author: Philip
-* 
-* Date: August 31, 2003 
-**/ 
-
 import Sony.Vegas; 
 import System.Windows.Forms;
 import Microsoft.Win32;
