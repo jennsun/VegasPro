@@ -1,4 +1,3 @@
-//ChangeAlphaChannel.js by Roger Magnusson (roger_74 at home dot se)
 import Sony.Vegas;
 
 var ChangeAlphaTo : VideoAlphaType = VideoAlphaType.Premultiplied; //Set this to the type you want
