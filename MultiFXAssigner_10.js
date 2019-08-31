@@ -1,23 +1,4 @@
 /*
- * Copyright (c) 2004, Folding Rain Filmworks Inc.
- *
- * author: Joe Howes (joeh@guild1.com)
- *
- * Coloring your final project in Vegas can be a bit of a bitch,
- * espcially if you have a complex project divided into multiple
- * sections.  When you're going through and coloring, you may find
- * that as you progress, coloring decisions you made early on
- * just look lame, and going back and updating all of them is a
- * pain in the ass because Vegas doesn't allow you to apply
- * changes to multiple events or media at the same time...you have
- * to go into each one individually.
- *
- * This script allows you to select one or more video events on the
- * timeline and apply effects and presets to either the events
- * themselves, or the media in the media pool.  This script has
- * saved me VAST amounts of time in finishing, and I hope it does
- * the same for you.
- *
  * NOTE:
  * - The reason you can't select items in the media pool and affect
  *   them directly is that in this version of Vegas (5.0b), the
@@ -37,15 +18,6 @@
  * and click "Add Effect" to add it to the stack of effects that will
  * be applied to all selected events or media.  Choose whether to
  * affect events or media, then click "Assign".
- *
- * v1.1: Sep. 24, 2004
- *
- * VERSION HISTORY:
- *
- * 1.1:
- * - Added the option to add to existing FX as well as replace.
- * - (Hopefully) fixed some GUI display issues...where labels were
- *   being truncated.
  */
 
 import System.Windows.Forms;
